@@ -1,5 +1,5 @@
 # dotfiles
-They are settings customized for me.
+They are settings customized for me.  
 This repository includes settings of applications which are as below.
 - [Neovim](https://neovim.io)
 # Installation
