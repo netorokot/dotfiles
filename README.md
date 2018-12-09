@@ -1,6 +1,7 @@
 # dotfiles
 They are settings customized for me.  
 This repository includes settings of applications which are as below.
+- [Vim](https://www.vim.org)
 - [Neovim](https://neovim.io)
 # Installation
 You can install settings of each application as below.
